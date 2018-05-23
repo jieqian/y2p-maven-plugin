@@ -45,7 +45,7 @@ YourProject
 ```
 
 ## 如何使用
-有时候你需要把application-${env}.yml的配置转换成properties中的格式，然后粘贴到配置中心的文本中去，那么只要在微服务的项目根目录中执行以下命令:
+有时候你需要把application-${env}.yml的配置转换成properties中的格式，那么只要在微服务的项目根目录中执行以下命令:
 ```
 mvn y2p:run -Denv=${env} -P generate-properties-profile
 ```
