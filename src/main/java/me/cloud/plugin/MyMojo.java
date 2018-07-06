@@ -1,4 +1,4 @@
-package ppc.cloud.plugin;
+package me.cloud.plugin;
 
 
 import org.apache.maven.plugin.AbstractMojo;
@@ -7,10 +7,8 @@ import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugins.annotations.LifecyclePhase;
 import org.apache.maven.plugins.annotations.Mojo;
 import org.apache.maven.plugins.annotations.Parameter;
-import org.apache.maven.plugins.annotations.ResolutionScope;
-import ppc.cloud.plugin.utils.Constants;
-import ppc.cloud.plugin.utils.CustomProperties;
-import ppc.cloud.plugin.utils.Env;
+import me.cloud.plugin.utils.Constants;
+import me.cloud.plugin.utils.Env;
 
 import java.io.*;
 import java.util.Properties;

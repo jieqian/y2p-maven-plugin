@@ -25,7 +25,7 @@ YourProject
             <build>
                 <plugins>
                     <plugin>
-                        <groupId>ppc.cloud.plugin</groupId>
+                        <groupId>me.cloud.plugin</groupId>
                         <artifactId>y2p-maven-plugin</artifactId>
                         <version>1.0-SNAPSHOT</version>
                         <executions>

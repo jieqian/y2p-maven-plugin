@@ -1,4 +1,4 @@
-package ppc.cloud.plugin.utils;
+package me.cloud.plugin.utils;
 
 /**
  * Created by qianjie on 6/29/17.

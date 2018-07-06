@@ -1,4 +1,4 @@
-package ppc.cloud.plugin.utils;
+package me.cloud.plugin.utils;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
